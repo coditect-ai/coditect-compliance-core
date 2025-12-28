@@ -1,3 +1,22 @@
+---
+title: CODITECT Compliance Core
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: draft
+tags:
+- ai-ml
+- deployment
+- security
+- api
+- architecture
+- automation
+- backend
+- cloud
+summary: Compliance automation and evidence collection framework for SOC 2, ISO 27001,
+  HIPAA, and custom compliance programs.
+---
 # CODITECT Compliance Core
 
 **Compliance automation and evidence collection framework for SOC 2, ISO 27001, HIPAA, and custom compliance programs.**

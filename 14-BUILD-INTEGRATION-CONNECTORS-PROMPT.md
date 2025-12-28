@@ -1,3 +1,22 @@
+---
+title: 'Prompt 14: Component Build - Integration Connectors'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- security
+- testing
+- api
+- architecture
+- automation
+- backend
+summary: You are a senior software engineer implementing Integration Connectors for
+  CODITECT-COMPLIANCE. These connectors interface with external systems...
+---
 # Prompt 14: Component Build - Integration Connectors
 
 ## Context

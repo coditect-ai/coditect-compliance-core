@@ -1,3 +1,23 @@
+---
+title: CODITECT-COMPLIANCE Technical Design Document Prompt
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- security
+- testing
+- api
+- architecture
+- automation
+- backend
+summary: 'CODITECT-COMPLIANCE Technical Design Document Prompt Prompt ID: 04-TECHNICAL-DESIGN-DOCUMENT
+  Output: Dependencies: 02-PRODUCT-REQUIREMENTS, 03-SOFTWARE-DESIGN-DOCUMENT Estimated
+  Tokens: 35,000-45,000 Generate a comprehensive Technical Design...'
+---
 # CODITECT-COMPLIANCE Technical Design Document Prompt
 
 **Prompt ID:** 04-TECHNICAL-DESIGN-DOCUMENT  

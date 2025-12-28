@@ -1,3 +1,22 @@
+---
+title: 'Prompt 20: Component Build - Documentation'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a senior technical writer creating comprehensive documentation for
+  CODITECT-COMPLIANCE. This includes API documentation, user guides,...
+---
 # Prompt 20: Component Build - Documentation
 
 ## Context

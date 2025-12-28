@@ -1,3 +1,22 @@
+---
+title: 'Prompt 18: Component Build - Test Suite'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- deployment
+- testing
+- api
+- automation
+- backend
+- cloud
+summary: You are a senior QA engineer implementing the comprehensive test suite for
+  CODITECT-COMPLIANCE. This includes unit tests, integration tests,...
+---
 # Prompt 18: Component Build - Test Suite
 
 ## Context

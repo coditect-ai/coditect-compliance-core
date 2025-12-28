@@ -1,3 +1,23 @@
+---
+title: CODITECT-COMPLIANCE Product Definition Prompt
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- architecture
+- automation
+- backend
+summary: 'CODITECT-COMPLIANCE Product Definition Prompt Prompt ID: 01-PRODUCT-DEFINITION
+  Output: Dependencies: None Estimated Tokens: 15,000-20,000 Generate a comprehensive
+  Product Definition Document for the CODITECT-COMPLIANCE module. This document...'
+---
 # CODITECT-COMPLIANCE Product Definition Prompt
 
 **Prompt ID:** 01-PRODUCT-DEFINITION  

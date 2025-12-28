@@ -1,3 +1,22 @@
+---
+title: 'PROMPT 05: Architecture Decision Record - Control Graph Data Model'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a Principal Architect at CODITECT, tasked with documenting the critical
+  architecture decision for the Control Graph data model in the...
+---
 # PROMPT 05: Architecture Decision Record - Control Graph Data Model
 
 ## Prompt Metadata

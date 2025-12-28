@@ -1,3 +1,22 @@
+---
+title: 'Prompt 10: Component Build - Core Domain Models'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- security
+- testing
+- architecture
+- automation
+- backend
+- cloud
+summary: You are a senior software engineer implementing the core domain models for
+  CODITECT-COMPLIANCE. These models form the foundation of the entire system...
+---
 # Prompt 10: Component Build - Core Domain Models
 
 ## Context

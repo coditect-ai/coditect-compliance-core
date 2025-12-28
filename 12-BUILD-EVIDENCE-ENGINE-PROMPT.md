@@ -1,3 +1,22 @@
+---
+title: 'Prompt 12: Component Build - Evidence Collection Engine'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a senior software engineer implementing the Evidence Collection Engine
+  for CODITECT-COMPLIANCE. This component automates the collection,...
+---
 # Prompt 12: Component Build - Evidence Collection Engine
 
 ## Context

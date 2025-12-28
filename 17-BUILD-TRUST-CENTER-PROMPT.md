@@ -1,3 +1,22 @@
+---
+title: 'Prompt 17: Component Build - Trust Center'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- security
+- testing
+- api
+- automation
+- backend
+- compliance
+summary: You are a senior software engineer implementing the Trust Center for CODITECT-COMPLIANCE.
+  This is a public-facing portal where customers share their...
+---
 # Prompt 17: Component Build - Trust Center
 
 ## Context

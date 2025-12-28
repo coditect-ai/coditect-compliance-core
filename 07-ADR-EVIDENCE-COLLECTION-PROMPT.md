@@ -1,3 +1,22 @@
+---
+title: 'Prompt 07: Architecture Decision Record - Evidence Collection Pipeline'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a principal architect designing the automated evidence collection
+  pipeline for CODITECT-COMPLIANCE. This ADR establishes how compliance...
+---
 # Prompt 07: Architecture Decision Record - Evidence Collection Pipeline
 
 ## Context

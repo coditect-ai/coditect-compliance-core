@@ -1,3 +1,22 @@
+---
+title: 'Prompt 08: Architecture Decision Record - Integration Framework'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a principal architect designing the integration framework for CODITECT-COMPLIANCE.
+  This ADR establishes how external systems are connected,...
+---
 # Prompt 08: Architecture Decision Record - Integration Framework
 
 ## Context

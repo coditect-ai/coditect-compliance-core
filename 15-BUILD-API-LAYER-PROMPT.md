@@ -1,3 +1,22 @@
+---
+title: 'Prompt 15: Component Build - API Layer'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- security
+- testing
+- api
+- architecture
+- automation
+- backend
+summary: You are a senior software engineer implementing the API Layer for CODITECT-COMPLIANCE.
+  This component provides REST and GraphQL APIs for all...
+---
 # Prompt 15: Component Build - API Layer
 
 ## Context

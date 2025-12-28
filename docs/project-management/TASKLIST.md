@@ -1,3 +1,23 @@
+---
+title: coditect-compliance-core - Task List
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- testing
+- automation
+- compliance
+- documentation
+- frontend
+- git
+- integration
+summary: 'coditect-compliance-core - Task List Repository: coditect-compliance-core
+  Category: compliance/ Phase: 1.4 Current Score: 25/100 Target Score: 90+/100 Status:
+  📋 PLANNED Status -------- ⏳ ⏳ ⏳ ⏳ ⏳ ⏳'
+---
 # coditect-compliance-core - Task List
 
 ## Overview

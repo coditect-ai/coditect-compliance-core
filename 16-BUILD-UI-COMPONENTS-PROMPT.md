@@ -1,3 +1,22 @@
+---
+title: 'Prompt 16: Component Build - UI Components'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- authentication
+- deployment
+- testing
+- api
+- architecture
+- automation
+- compliance
+- configuration
+summary: You are a senior frontend engineer implementing the React UI components for
+  CODITECT-COMPLIANCE. These components provide the compliance dashboard,...
+---
 # Prompt 16: Component Build - UI Components
 
 ## Context

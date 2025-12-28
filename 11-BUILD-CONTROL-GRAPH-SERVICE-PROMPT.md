@@ -1,3 +1,22 @@
+---
+title: 'Prompt 11: Component Build - Control Graph Service'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- testing
+- api
+- architecture
+- automation
+- backend
+- compliance
+summary: You are a senior software engineer implementing the Control Graph Service
+  for CODITECT-COMPLIANCE. This service manages compliance frameworks,...
+---
 # Prompt 11: Component Build - Control Graph Service
 
 ## Context

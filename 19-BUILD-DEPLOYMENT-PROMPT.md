@@ -1,3 +1,22 @@
+---
+title: 'Prompt 19: Component Build - Deployment Infrastructure'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a senior DevOps engineer implementing the deployment infrastructure
+  for CODITECT-COMPLIANCE. This includes Kubernetes manifests, Terraform...
+---
 # Prompt 19: Component Build - Deployment Infrastructure
 
 ## Context

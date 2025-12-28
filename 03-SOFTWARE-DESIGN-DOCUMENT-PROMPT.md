@@ -1,3 +1,23 @@
+---
+title: CODITECT-COMPLIANCE Software Design Document Prompt
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: 'CODITECT-COMPLIANCE Software Design Document Prompt Prompt ID: 03-SOFTWARE-DESIGN-DOCUMENT
+  Output: Dependencies: 01-PRODUCT-DEFINITION, 02-PRODUCT-REQUIREMENTS Estimated Tokens:
+  30,000-40,000 Generate a comprehensive Software Design Document (SDD)...'
+---
 # CODITECT-COMPLIANCE Software Design Document Prompt
 
 **Prompt ID:** 03-SOFTWARE-DESIGN-DOCUMENT  

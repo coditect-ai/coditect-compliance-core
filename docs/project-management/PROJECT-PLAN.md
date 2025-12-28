@@ -1,3 +1,24 @@
+---
+title: coditect-compliance-core - Project Plan
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: draft
+tags:
+- ai-ml
+- security
+- automation
+- compliance
+- documentation
+- frontend
+- git
+- integration
+summary: 'coditect-compliance-core - Project Plan Repository: coditect-compliance-core
+  Category: compliance/ Phase: 1.4 Priority: P2-CRITICAL Status: 📋 PLANNED Current
+  Gap ---------------- 25/100 65 CLAUDE.md Lines <150 ⚠️ Verify - docs/ Directory
+  ✅'
+---
 # coditect-compliance-core - Project Plan
 
 ## Overview

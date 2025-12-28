@@ -1,3 +1,22 @@
+---
+title: Build Orchestration Guide
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+- backend
+summary: 'Phase 1: Foundation Documents 1.1 Product Definition → Strategic positioning
+  and scope 1.2 Product Requirements (PRD) → Functional/non-functional...'
+---
 # Build Orchestration Guide
 
 ## Build Orchestration Phases

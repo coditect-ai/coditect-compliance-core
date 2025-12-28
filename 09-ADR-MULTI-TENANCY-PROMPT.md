@@ -1,3 +1,22 @@
+---
+title: 'Prompt 09: Architecture Decision Record - Multi-Tenancy Architecture'
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: deprecated
+tags:
+- ai-ml
+- authentication
+- deployment
+- security
+- testing
+- api
+- architecture
+- automation
+summary: You are a principal architect designing the multi-tenancy model for CODITECT-COMPLIANCE.
+  This ADR establishes how customer organizations are...
+---
 # Prompt 09: Architecture Decision Record - Multi-Tenancy Architecture
 
 ## Context

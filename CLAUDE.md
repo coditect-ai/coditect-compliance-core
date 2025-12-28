@@ -1,3 +1,23 @@
+---
+title: CLAUDE.md - CODITECT Compliance & Regulatory Framework
+type: reference
+version: 1.0.0
+created: '2025-12-27'
+updated: '2025-12-27'
+status: active
+tags:
+- ai-ml
+- deployment
+- security
+- testing
+- architecture
+- automation
+- backend
+- compliance
+summary: 'CLAUDE.md - CODITECT Compliance & Regulatory Framework CRITICAL SAFETY DIRECTIVE
+  NEVER USE , , , OR ANY DELETE COMMAND WITHOUT EXPLICIT USER PERMISSION. This directive
+  applies to: - This repository and ALL subfolders - ANY folder containing a or...'
+---
 # CLAUDE.md - CODITECT Compliance & Regulatory Framework
 
 ## CRITICAL SAFETY DIRECTIVE
