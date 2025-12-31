@@ -1,6 +1,7 @@
 ---
 title: vanta compliance features
-type: reference
+type: agent
+component_type: agent
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - automation
 summary: <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png"
   style="height:64px;margin-right:32px"/>
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 

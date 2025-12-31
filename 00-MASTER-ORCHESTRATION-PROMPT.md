@@ -1,6 +1,7 @@
 ---
 title: CODITECT Compliance Module - Master Orchestration Prompt
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -17,6 +18,8 @@ tags:
 summary: 'CODITECT Compliance Module - Master Orchestration Prompt Module Name: CODITECT-COMPLIANCE
   Version: 1.0.0 Classification: Enterprise Plugin Module Target Verticals: Healthcare
   (HIPAA/FDA), Fintech (SOC2/PCI), AI Governance (EU AI Act/ISO 42001)'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # CODITECT Compliance Module - Master Orchestration Prompt
 

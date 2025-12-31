@@ -1,6 +1,7 @@
 ---
 title: 'Prompt 06: Architecture Decision Record - Agent Orchestration Framework'
-type: reference
+type: agent
+component_type: agent
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - automation
 summary: You are a principal architect designing the autonomous agent orchestration
   system for CODITECT-COMPLIANCE. This ADR establishes how AI agents are...
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # Prompt 06: Architecture Decision Record - Agent Orchestration Framework
 

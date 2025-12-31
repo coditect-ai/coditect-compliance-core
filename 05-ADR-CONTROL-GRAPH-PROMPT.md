@@ -1,6 +1,7 @@
 ---
 title: 'PROMPT 05: Architecture Decision Record - Control Graph Data Model'
-type: reference
+type: adr
+component_type: adr
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - automation
 summary: You are a Principal Architect at CODITECT, tasked with documenting the critical
   architecture decision for the Control Graph data model in the...
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # PROMPT 05: Architecture Decision Record - Control Graph Data Model
 

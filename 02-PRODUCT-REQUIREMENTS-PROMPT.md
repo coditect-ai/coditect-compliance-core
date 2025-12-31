@@ -1,6 +1,7 @@
 ---
 title: CODITECT-COMPLIANCE Product Requirements Document Prompt
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -17,6 +18,8 @@ tags:
 summary: 'CODITECT-COMPLIANCE Product Requirements Document Prompt Prompt ID: 02-PRODUCT-REQUIREMENTS
   Output: Dependencies: 01-PRODUCT-DEFINITION Estimated Tokens: 25,000-35,000 Generate
   a comprehensive Product Requirements Document (PRD) that translates the...'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # CODITECT-COMPLIANCE Product Requirements Document Prompt
 

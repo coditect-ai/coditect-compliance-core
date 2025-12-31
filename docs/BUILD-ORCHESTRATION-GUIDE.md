@@ -1,6 +1,7 @@
 ---
 title: Build Orchestration Guide
-type: reference
+type: workflow
+component_type: workflow
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - backend
 summary: 'Phase 1: Foundation Documents 1.1 Product Definition → Strategic positioning
   and scope 1.2 Product Requirements (PRD) → Functional/non-functional...'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # Build Orchestration Guide
 

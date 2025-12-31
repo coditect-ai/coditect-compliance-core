@@ -1,6 +1,7 @@
 ---
 title: 'Prompt 10: Component Build - Core Domain Models'
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - cloud
 summary: You are a senior software engineer implementing the core domain models for
   CODITECT-COMPLIANCE. These models form the foundation of the entire system...
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # Prompt 10: Component Build - Core Domain Models
 

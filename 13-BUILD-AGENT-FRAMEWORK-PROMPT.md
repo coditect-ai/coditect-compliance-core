@@ -1,6 +1,7 @@
 ---
 title: 'Prompt 13: Component Build - Agent Framework'
-type: reference
+type: agent
+component_type: agent
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - backend
 summary: You are a senior software engineer implementing the AI Agent Framework for
   CODITECT-COMPLIANCE. This component provides the infrastructure for...
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # Prompt 13: Component Build - Agent Framework
 

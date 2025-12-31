@@ -1,6 +1,7 @@
 ---
 title: coditect-compliance-core - Task List
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -17,6 +18,8 @@ tags:
 summary: 'coditect-compliance-core - Task List Repository: coditect-compliance-core
   Category: compliance/ Phase: 1.4 Current Score: 25/100 Target Score: 90+/100 Status:
   📋 PLANNED Status -------- ⏳ ⏳ ⏳ ⏳ ⏳ ⏳'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # coditect-compliance-core - Task List
 

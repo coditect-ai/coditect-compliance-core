@@ -1,6 +1,7 @@
 ---
 title: coditect-compliance-core - Project Plan
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -18,6 +19,8 @@ summary: 'coditect-compliance-core - Project Plan Repository: coditect-complianc
   Category: compliance/ Phase: 1.4 Priority: P2-CRITICAL Status: 📋 PLANNED Current
   Gap ---------------- 25/100 65 CLAUDE.md Lines <150 ⚠️ Verify - docs/ Directory
   ✅'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # coditect-compliance-core - Project Plan
 

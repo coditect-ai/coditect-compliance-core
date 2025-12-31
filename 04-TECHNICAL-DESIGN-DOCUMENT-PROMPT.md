@@ -1,6 +1,7 @@
 ---
 title: CODITECT-COMPLIANCE Technical Design Document Prompt
-type: reference
+type: agent
+component_type: agent
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -17,6 +18,8 @@ tags:
 summary: 'CODITECT-COMPLIANCE Technical Design Document Prompt Prompt ID: 04-TECHNICAL-DESIGN-DOCUMENT
   Output: Dependencies: 02-PRODUCT-REQUIREMENTS, 03-SOFTWARE-DESIGN-DOCUMENT Estimated
   Tokens: 35,000-45,000 Generate a comprehensive Technical Design...'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # CODITECT-COMPLIANCE Technical Design Document Prompt
 

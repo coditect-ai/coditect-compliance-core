@@ -1,6 +1,7 @@
 ---
 title: 'Prompt 20: Component Build - Documentation'
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - automation
 summary: You are a senior technical writer creating comprehensive documentation for
   CODITECT-COMPLIANCE. This includes API documentation, user guides,...
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # Prompt 20: Component Build - Documentation
 

@@ -1,6 +1,7 @@
 ---
 title: CODITECT-COMPLIANCE Software Design Document Prompt
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -17,6 +18,8 @@ tags:
 summary: 'CODITECT-COMPLIANCE Software Design Document Prompt Prompt ID: 03-SOFTWARE-DESIGN-DOCUMENT
   Output: Dependencies: 01-PRODUCT-DEFINITION, 02-PRODUCT-REQUIREMENTS Estimated Tokens:
   30,000-40,000 Generate a comprehensive Software Design Document (SDD)...'
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # CODITECT-COMPLIANCE Software Design Document Prompt
 

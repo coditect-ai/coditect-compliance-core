@@ -1,6 +1,7 @@
 ---
 title: CODITECT Compliance Core
 type: reference
+component_type: reference
 version: 1.0.0
 created: '2025-12-27'
 updated: '2025-12-27'
@@ -16,6 +17,8 @@ tags:
 - cloud
 summary: Compliance automation and evidence collection framework for SOC 2, ISO 27001,
   HIPAA, and custom compliance programs.
+moe_confidence: 0.950
+moe_classified: 2025-12-31
 ---
 # CODITECT Compliance Core
 
