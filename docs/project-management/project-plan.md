@@ -97,8 +97,8 @@ Achieve 90+ CODITECT compliance score with standardized directory structure.
 ## Integration with Master Orchestrator
 
 This submodule is managed by `coditect-rollout-master`:
-- **PROJECT-PLAN.md** → `docs/project-management/PROJECT-PLAN.md` (master)
-- **TASKLIST.md** → `docs/project-management/TASKLIST.md` (master)
+- **project-plan.md** → `docs/project-management/project-plan.md` (master)
+- **tasklist.md** → `docs/project-management/tasklist.md` (master)
 - **Phase tracking** → Phase 1.4 in master orchestrator
 
 **Agentic Management:**
@@ -112,7 +112,7 @@ This submodule is managed by `coditect-rollout-master`:
 
 - `../../MEMORY-CONTEXT/SUBMODULE-ORGANIZATION-MASTER-PLAN.md`
 - `../../scripts/analyze-submodule-compliance.py`
-- `../../docs/project-management/PROJECT-PLAN.md`
+- `../../docs/project-management/project-plan.md`
 
 ---
 

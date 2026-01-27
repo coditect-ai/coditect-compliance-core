@@ -77,11 +77,11 @@ moe_classified: 2025-12-31
 
 **Start here in order:**
 
-1. **[00-MASTER-ORCHESTRATION-PROMPT.md](00-MASTER-ORCHESTRATION-PROMPT.md)** - Complete build sequence and dependencies
-2. **[docs/BUILD-ORCHESTRATION-GUIDE.md](docs/BUILD-ORCHESTRATION-GUIDE.md)** - Implementation phases and compliance coverage
+1. **[00-master-orchestration-prompt.md](00-master-orchestration-prompt.md)** - Complete build sequence and dependencies
+2. **[docs/build-orchestration-guide.md](docs/build-orchestration-guide.md)** - Implementation phases and compliance coverage
 3. **[vanta_compliance_features.md](vanta_compliance_features.md)** - Competitive landscape analysis
-4. **[docs/project-management/PROJECT-PLAN.md](docs/project-management/PROJECT-PLAN.md)** - Implementation strategy
-5. **[docs/project-management/TASKLIST.md](docs/project-management/TASKLIST.md)** - Current task progress
+4. **[docs/project-management/project-plan.md](docs/project-management/project-plan.md)** - Implementation strategy
+5. **[docs/project-management/tasklist.md](docs/project-management/tasklist.md)** - Current task progress
 
 ---
 
@@ -92,9 +92,9 @@ coditect-compliance-core/
 ├── .coditect/                          # CODITECT framework (symlinked)
 ├── .claude -> .coditect                # Claude Code compatibility
 ├── docs/
-│   ├── project-management/             # PROJECT-PLAN.md + TASKLIST.md
-│   └── BUILD-ORCHESTRATION-GUIDE.md    # Build phases and compliance coverage
-├── 00-MASTER-ORCHESTRATION-PROMPT.md   # Build sequence orchestration
+│   ├── project-management/             # project-plan.md + tasklist.md
+│   └── build-orchestration-guide.md    # Build phases and compliance coverage
+├── 00-master-orchestration-prompt.md   # Build sequence orchestration
 ├── 01-04-*.md                          # Phase 1: Product/Requirements/Design
 ├── 05-09-ADR-*.md                      # Phase 2: Architecture Decisions
 ├── 10-20-BUILD-*.md                    # Phase 3: Component Build
@@ -113,7 +113,7 @@ coditect-compliance-core/
 # Phase 3: Component Build (execute prompts 10-20 in sequence)
 
 # Track progress
-cat docs/project-management/TASKLIST.md
+cat docs/project-management/tasklist.md
 ```
 
 ### Use CODITECT Framework

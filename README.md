@@ -54,10 +54,10 @@ ls .coditect/skills/
 
 Based on comprehensive design documents:
 
-- **Product Definition** - `01-PRODUCT-DEFINITION-PROMPT.md`
-- **Requirements** - `02-PRODUCT-REQUIREMENTS-PROMPT.md`
-- **Software Design** - `03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md`
-- **Technical Design** - `04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md`
+- **Product Definition** - `01-product-definition-prompt.md`
+- **Requirements** - `02-product-requirements-prompt.md`
+- **Software Design** - `03-software-design-document-prompt.md`
+- **Technical Design** - `04-technical-design-document-prompt.md`
 - **ADRs** - Architecture Decision Records (05-09)
 - **Implementation** - Build prompts (10-20)
 

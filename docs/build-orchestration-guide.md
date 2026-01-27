@@ -52,20 +52,20 @@ moe_classified: 2025-12-31
 # Phase 3: Component Build (execute prompts 10-20 in sequence)
 
 # Track progress
-cat docs/project-management/TASKLIST.md
+cat docs/project-management/tasklist.md
 ```
 
 ### Build Prompts
-- `00-MASTER-ORCHESTRATION-PROMPT.md` - Complete build sequence and dependencies
-- `01-PRODUCT-DEFINITION-PROMPT.md` - Phase 1.1
-- `02-PRODUCT-REQUIREMENTS-PROMPT.md` - Phase 1.2
-- `03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md` - Phase 1.3
-- `04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md` - Phase 1.4
-- `05-ADR-CONTROL-GRAPH-PROMPT.md` - Phase 2.1
-- `06-ADR-AGENT-ORCHESTRATION-PROMPT.md` - Phase 2.2
-- `07-ADR-EVIDENCE-COLLECTION-PROMPT.md` - Phase 2.3
-- `08-ADR-INTEGRATION-FRAMEWORK-PROMPT.md` - Phase 2.4
-- `09-ADR-MULTI-TENANCY-PROMPT.md` - Phase 2.5
+- `00-master-orchestration-prompt.md` - Complete build sequence and dependencies
+- `01-product-definition-prompt.md` - Phase 1.1
+- `02-product-requirements-prompt.md` - Phase 1.2
+- `03-software-design-document-prompt.md` - Phase 1.3
+- `04-technical-design-document-prompt.md` - Phase 1.4
+- `05-adr-control-graph-prompt.md` - Phase 2.1
+- `06-adr-agent-orchestration-prompt.md` - Phase 2.2
+- `07-adr-evidence-collection-prompt.md` - Phase 2.3
+- `08-adr-integration-framework-prompt.md` - Phase 2.4
+- `09-adr-multi-tenancy-prompt.md` - Phase 2.5
 - `10-20-BUILD-*.md` - Phase 3 component builds
 
 ## Compliance Coverage
@@ -86,9 +86,9 @@ cat docs/project-management/TASKLIST.md
 
 ## Development Best Practices
 
-1. **Follow build sequence** in 00-MASTER-ORCHESTRATION-PROMPT.md
+1. **Follow build sequence** in 00-master-orchestration-prompt.md
 2. **Execute prompts in order** - Each builds on previous artifacts
-3. **Track progress** in docs/project-management/TASKLIST.md
+3. **Track progress** in docs/project-management/tasklist.md
 4. **Use CODITECT agents** for specialized compliance tasks
 5. **Commit checkpoints** after each phase completion
 

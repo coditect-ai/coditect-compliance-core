@@ -99,7 +99,7 @@ moe_classified: 2025-12-31
 
 ### Post-Completion
 - [ ] Master repo pointer updated
-- [ ] Phase status updated in master TASKLIST.md
+- [ ] Phase status updated in master tasklist.md
 - [ ] MEMORY-CONTEXT checkpoint created (if significant)
 
 ---
@@ -128,8 +128,8 @@ cd ../.. && git add submodules/compliance/coditect-compliance-core && git commit
 ## Integration
 
 **Master Orchestrator:**
-- `docs/project-management/PROJECT-PLAN.md` - Phase 1.4
-- `docs/project-management/TASKLIST.md` - Phase 1.4 tasks
+- `docs/project-management/project-plan.md` - Phase 1.4
+- `docs/project-management/tasklist.md` - Phase 1.4 tasks
 
 **Agents:**
 - `project-organizer` - Directory standardization

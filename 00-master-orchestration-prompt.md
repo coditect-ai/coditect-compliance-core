@@ -53,41 +53,41 @@ Execute the following prompts in sequence. Each prompt generates artifacts that 
 
 | Sequence | Prompt File | Output Artifact | Dependencies |
 |----------|------------|-----------------|--------------|
-| 1.1 | `01-PRODUCT-DEFINITION-PROMPT.md` | Product Definition Document | None |
-| 1.2 | `02-PRODUCT-REQUIREMENTS-PROMPT.md` | Product Requirements Document (PRD) | 1.1 |
-| 1.3 | `03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md` | Software Design Document (SDD) | 1.1, 1.2 |
-| 1.4 | `04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md` | Technical Design Document (TDD) | 1.2, 1.3 |
+| 1.1 | `01-product-definition-prompt.md` | Product Definition Document | None |
+| 1.2 | `02-product-requirements-prompt.md` | Product Requirements Document (PRD) | 1.1 |
+| 1.3 | `03-software-design-document-prompt.md` | Software Design Document (SDD) | 1.1, 1.2 |
+| 1.4 | `04-technical-design-document-prompt.md` | Technical Design Document (TDD) | 1.2, 1.3 |
 
 ### Phase 2: Architecture Decisions
 
 | Sequence | Prompt File | Output Artifact | Dependencies |
 |----------|------------|-----------------|--------------|
-| 2.1 | `05-ADR-CONTROL-GRAPH-PROMPT.md` | ADR-001: Control Graph Database | 1.3, 1.4 |
-| 2.2 | `06-ADR-AGENT-ORCHESTRATION-PROMPT.md` | ADR-002: Multi-Agent Orchestration | 1.3, 1.4 |
-| 2.3 | `07-ADR-EVIDENCE-COLLECTION-PROMPT.md` | ADR-003: Evidence Collection Pipeline | 1.3, 1.4 |
-| 2.4 | `08-ADR-INTEGRATION-FRAMEWORK-PROMPT.md` | ADR-004: Integration Framework | 1.3, 1.4 |
-| 2.5 | `09-ADR-MULTI-TENANCY-PROMPT.md` | ADR-005: Multi-Tenancy & Isolation | 1.3, 1.4 |
+| 2.1 | `05-adr-control-graph-prompt.md` | ADR-001: Control Graph Database | 1.3, 1.4 |
+| 2.2 | `06-adr-agent-orchestration-prompt.md` | ADR-002: Multi-Agent Orchestration | 1.3, 1.4 |
+| 2.3 | `07-adr-evidence-collection-prompt.md` | ADR-003: Evidence Collection Pipeline | 1.3, 1.4 |
+| 2.4 | `08-adr-integration-framework-prompt.md` | ADR-004: Integration Framework | 1.3, 1.4 |
+| 2.5 | `09-adr-multi-tenancy-prompt.md` | ADR-005: Multi-Tenancy & Isolation | 1.3, 1.4 |
 
 ### Phase 3: Full Stack Component Build
 
 | Sequence | Prompt File | Output Component | Dependencies |
 |----------|------------|------------------|--------------|
-| 3.1 | `10-BUILD-DOMAIN-MODELS-PROMPT.md` | Domain Models & Schemas | 2.1-2.5 |
+| 3.1 | `10-build-domain-models-prompt.md` | Domain Models & Schemas | 2.1-2.5 |
 | 3.2 | `11-BUILD-CONTROL-GRAPH-PROMPT.md` | Control Graph Service | 3.1 |
-| 3.3 | `12-BUILD-EVIDENCE-ENGINE-PROMPT.md` | Evidence Collection Engine | 3.1, 3.2 |
-| 3.4 | `13-BUILD-AGENT-FRAMEWORK-PROMPT.md` | Compliance Agent Framework | 3.1, 3.2 |
-| 3.5 | `14-BUILD-INTEGRATION-CONNECTORS-PROMPT.md` | Integration Connectors | 3.1, 3.3 |
-| 3.6 | `15-BUILD-API-LAYER-PROMPT.md` | REST/GraphQL API Layer | 3.1-3.5 |
-| 3.7 | `16-BUILD-UI-COMPONENTS-PROMPT.md` | UI Components (React/Theia) | 3.6 |
-| 3.8 | `17-BUILD-TRUST-CENTER-PROMPT.md` | Trust Center Portal | 3.6, 3.7 |
+| 3.3 | `12-build-evidence-engine-prompt.md` | Evidence Collection Engine | 3.1, 3.2 |
+| 3.4 | `13-build-agent-framework-prompt.md` | Compliance Agent Framework | 3.1, 3.2 |
+| 3.5 | `14-build-integration-connectors-prompt.md` | Integration Connectors | 3.1, 3.3 |
+| 3.6 | `15-build-api-layer-prompt.md` | REST/GraphQL API Layer | 3.1-3.5 |
+| 3.7 | `16-build-ui-components-prompt.md` | UI Components (React/Theia) | 3.6 |
+| 3.8 | `17-build-trust-center-prompt.md` | Trust Center Portal | 3.6, 3.7 |
 
 ### Phase 4: Quality & Deployment
 
 | Sequence | Prompt File | Output Artifact | Dependencies |
 |----------|------------|-----------------|--------------|
-| 4.1 | `18-BUILD-TEST-SUITE-PROMPT.md` | Test Suite (Unit/Integration/E2E) | 3.1-3.8 |
-| 4.2 | `19-BUILD-DEPLOYMENT-PROMPT.md` | K8s/Docker Deployment Configs | 3.1-3.8 |
-| 4.3 | `20-BUILD-DOCUMENTATION-PROMPT.md` | Technical Documentation | All |
+| 4.1 | `18-build-test-suite-prompt.md` | Test Suite (Unit/Integration/E2E) | 3.1-3.8 |
+| 4.2 | `19-build-deployment-prompt.md` | K8s/Docker Deployment Configs | 3.1-3.8 |
+| 4.3 | `20-build-documentation-prompt.md` | Technical Documentation | All |
 
 ---
 
@@ -329,4 +329,4 @@ coditect-compliance/
 
 ---
 
-**BEGIN EXECUTION WITH PROMPT 01-PRODUCT-DEFINITION-PROMPT.md**
+**BEGIN EXECUTION WITH PROMPT 01-product-definition-prompt.md**

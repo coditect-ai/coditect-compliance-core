@@ -29,9 +29,9 @@ prompt_type: architecture_decision_record
 output_artifact: ADR-001-control-graph-data-model.md
 estimated_tokens: 8,000-12,000
 dependencies:
-  - 01-PRODUCT-DEFINITION-PROMPT.md (completed)
-  - 02-PRODUCT-REQUIREMENTS-PROMPT.md (completed)
-  - 03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md (completed)
+  - 01-product-definition-prompt.md (completed)
+  - 02-product-requirements-prompt.md (completed)
+  - 03-software-design-document-prompt.md (completed)
 ```
 
 ---
