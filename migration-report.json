@@ -1,0 +1,249 @@
+{
+  "submodule": "/Users/halcasteel/PROJECTS/coditect-rollout-master/submodules/compliance/coditect-compliance-core",
+  "timestamp": "2026-01-27T06:00:05.306291Z",
+  "dry_run": false,
+  "stats": {
+    "files_renamed": 24,
+    "dirs_renamed": 0,
+    "failed": 1,
+    "references_updated": 45
+  },
+  "results": [
+    {
+      "old_path": "06-ADR-AGENT-ORCHESTRATION-PROMPT.md",
+      "new_path": "06-adr-agent-orchestration-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "11-BUILD-CONTROL-GRAPH-SERVICE-PROMPT.md",
+      "new_path": "11-build-control-graph-service-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": ".DS_Store",
+      "new_path": ".ds-store",
+      "success": false,
+      "method": null,
+      "error": "Direct mv failed: fatal: not under version control, source=.DS_Store, destination=.ds-store\n"
+    },
+    {
+      "old_path": "08-ADR-INTEGRATION-FRAMEWORK-PROMPT.md",
+      "new_path": "08-adr-integration-framework-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md",
+      "new_path": "03-software-design-document-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "20-BUILD-DOCUMENTATION-PROMPT.md",
+      "new_path": "20-build-documentation-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "09-ADR-MULTI-TENANCY-PROMPT.md",
+      "new_path": "09-adr-multi-tenancy-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "17-BUILD-TRUST-CENTER-PROMPT.md",
+      "new_path": "17-build-trust-center-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "15-BUILD-API-LAYER-PROMPT.md",
+      "new_path": "15-build-api-layer-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md",
+      "new_path": "04-technical-design-document-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "10-BUILD-DOMAIN-MODELS-PROMPT.md",
+      "new_path": "10-build-domain-models-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "00-MASTER-ORCHESTRATION-PROMPT.md",
+      "new_path": "00-master-orchestration-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "18-BUILD-TEST-SUITE-PROMPT.md",
+      "new_path": "18-build-test-suite-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "12-BUILD-EVIDENCE-ENGINE-PROMPT.md",
+      "new_path": "12-build-evidence-engine-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "13-BUILD-AGENT-FRAMEWORK-PROMPT.md",
+      "new_path": "13-build-agent-framework-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "07-ADR-EVIDENCE-COLLECTION-PROMPT.md",
+      "new_path": "07-adr-evidence-collection-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "19-BUILD-DEPLOYMENT-PROMPT.md",
+      "new_path": "19-build-deployment-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "02-PRODUCT-REQUIREMENTS-PROMPT.md",
+      "new_path": "02-product-requirements-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "05-ADR-CONTROL-GRAPH-PROMPT.md",
+      "new_path": "05-adr-control-graph-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "16-BUILD-UI-COMPONENTS-PROMPT.md",
+      "new_path": "16-build-ui-components-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "14-BUILD-INTEGRATION-CONNECTORS-PROMPT.md",
+      "new_path": "14-build-integration-connectors-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "01-PRODUCT-DEFINITION-PROMPT.md",
+      "new_path": "01-product-definition-prompt.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "docs/BUILD-ORCHESTRATION-GUIDE.md",
+      "new_path": "docs/build-orchestration-guide.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "docs/project-management/TASKLIST.md",
+      "new_path": "docs/project-management/tasklist.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    },
+    {
+      "old_path": "docs/project-management/PROJECT-PLAN.md",
+      "new_path": "docs/project-management/project-plan.md",
+      "success": true,
+      "method": "two_step",
+      "error": null
+    }
+  ],
+  "reference_updates": {
+    "00-master-orchestration-prompt.md": [
+      "06-ADR-AGENT-ORCHESTRATION-PROMPT.md \u2192 06-adr-agent-orchestration-prompt.md",
+      "08-ADR-INTEGRATION-FRAMEWORK-PROMPT.md \u2192 08-adr-integration-framework-prompt.md",
+      "03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md \u2192 03-software-design-document-prompt.md",
+      "20-BUILD-DOCUMENTATION-PROMPT.md \u2192 20-build-documentation-prompt.md",
+      "09-ADR-MULTI-TENANCY-PROMPT.md \u2192 09-adr-multi-tenancy-prompt.md",
+      "17-BUILD-TRUST-CENTER-PROMPT.md \u2192 17-build-trust-center-prompt.md",
+      "15-BUILD-API-LAYER-PROMPT.md \u2192 15-build-api-layer-prompt.md",
+      "04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md \u2192 04-technical-design-document-prompt.md",
+      "10-BUILD-DOMAIN-MODELS-PROMPT.md \u2192 10-build-domain-models-prompt.md",
+      "18-BUILD-TEST-SUITE-PROMPT.md \u2192 18-build-test-suite-prompt.md",
+      "12-BUILD-EVIDENCE-ENGINE-PROMPT.md \u2192 12-build-evidence-engine-prompt.md",
+      "13-BUILD-AGENT-FRAMEWORK-PROMPT.md \u2192 13-build-agent-framework-prompt.md",
+      "07-ADR-EVIDENCE-COLLECTION-PROMPT.md \u2192 07-adr-evidence-collection-prompt.md",
+      "19-BUILD-DEPLOYMENT-PROMPT.md \u2192 19-build-deployment-prompt.md",
+      "02-PRODUCT-REQUIREMENTS-PROMPT.md \u2192 02-product-requirements-prompt.md",
+      "05-ADR-CONTROL-GRAPH-PROMPT.md \u2192 05-adr-control-graph-prompt.md",
+      "16-BUILD-UI-COMPONENTS-PROMPT.md \u2192 16-build-ui-components-prompt.md",
+      "14-BUILD-INTEGRATION-CONNECTORS-PROMPT.md \u2192 14-build-integration-connectors-prompt.md",
+      "01-PRODUCT-DEFINITION-PROMPT.md \u2192 01-product-definition-prompt.md"
+    ],
+    "README.md": [
+      "03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md \u2192 03-software-design-document-prompt.md",
+      "04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md \u2192 04-technical-design-document-prompt.md",
+      "02-PRODUCT-REQUIREMENTS-PROMPT.md \u2192 02-product-requirements-prompt.md",
+      "01-PRODUCT-DEFINITION-PROMPT.md \u2192 01-product-definition-prompt.md"
+    ],
+    "05-adr-control-graph-prompt.md": [
+      "03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md \u2192 03-software-design-document-prompt.md",
+      "02-PRODUCT-REQUIREMENTS-PROMPT.md \u2192 02-product-requirements-prompt.md",
+      "01-PRODUCT-DEFINITION-PROMPT.md \u2192 01-product-definition-prompt.md"
+    ],
+    "CLAUDE.md": [
+      "00-MASTER-ORCHESTRATION-PROMPT.md \u2192 00-master-orchestration-prompt.md",
+      "BUILD-ORCHESTRATION-GUIDE.md \u2192 build-orchestration-guide.md",
+      "TASKLIST.md \u2192 tasklist.md",
+      "PROJECT-PLAN.md \u2192 project-plan.md"
+    ],
+    "docs/build-orchestration-guide.md": [
+      "06-ADR-AGENT-ORCHESTRATION-PROMPT.md \u2192 06-adr-agent-orchestration-prompt.md",
+      "08-ADR-INTEGRATION-FRAMEWORK-PROMPT.md \u2192 08-adr-integration-framework-prompt.md",
+      "03-SOFTWARE-DESIGN-DOCUMENT-PROMPT.md \u2192 03-software-design-document-prompt.md",
+      "09-ADR-MULTI-TENANCY-PROMPT.md \u2192 09-adr-multi-tenancy-prompt.md",
+      "04-TECHNICAL-DESIGN-DOCUMENT-PROMPT.md \u2192 04-technical-design-document-prompt.md",
+      "00-MASTER-ORCHESTRATION-PROMPT.md \u2192 00-master-orchestration-prompt.md",
+      "07-ADR-EVIDENCE-COLLECTION-PROMPT.md \u2192 07-adr-evidence-collection-prompt.md",
+      "02-PRODUCT-REQUIREMENTS-PROMPT.md \u2192 02-product-requirements-prompt.md",
+      "05-ADR-CONTROL-GRAPH-PROMPT.md \u2192 05-adr-control-graph-prompt.md",
+      "01-PRODUCT-DEFINITION-PROMPT.md \u2192 01-product-definition-prompt.md",
+      "TASKLIST.md \u2192 tasklist.md"
+    ],
+    "docs/project-management/tasklist.md": [
+      "TASKLIST.md \u2192 tasklist.md",
+      "PROJECT-PLAN.md \u2192 project-plan.md"
+    ],
+    "docs/project-management/project-plan.md": [
+      "TASKLIST.md \u2192 tasklist.md",
+      "PROJECT-PLAN.md \u2192 project-plan.md"
+    ]
+  }
+}
