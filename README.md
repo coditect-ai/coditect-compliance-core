@@ -16,6 +16,7 @@ tags:
 - backend
 - cloud
 summary: Compliance automation and evidence collection framework for SOC 2, ISO 27001,
+category: compliance
   HIPAA, and custom compliance programs.
 moe_confidence: 0.950
 moe_classified: 2025-12-31
